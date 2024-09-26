@@ -1,2 +1,2 @@
 # PoezijaAI
-Generating Lithuanian poetry with AI (Tensorflow)
+Generating Lithuanian poetry with AI (PyTorch)
